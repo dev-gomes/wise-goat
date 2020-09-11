@@ -12,7 +12,7 @@ Este foi um desafio do projeto DevChallenge
 - CSS
 
 ## Cores:
-Roxo: #72005F
+Roxo: #72005F<br>
 Bege: #BAA193
 
 ## Tipo de fonte:
