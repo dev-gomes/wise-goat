@@ -22,6 +22,3 @@ Bege: #BAA193
 
 ## Tipo de fonte:
 - Roboto
-
-#### Comunidade DevChallenge
-- Site: https://www.devchallenge.com.br/ <br>
